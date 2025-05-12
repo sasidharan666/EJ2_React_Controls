@@ -1,0 +1,15 @@
+.button_group>*{
+    margin-right: 1em;
+    background-color: rgba(231, 116, 116, 0.716);
+    padding: 10px;
+    
+}
+.btn{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.button_parent{
+    background-color: #e91e625d;
+    padding: 1em;
+}

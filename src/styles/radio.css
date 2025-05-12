@@ -1,0 +1,14 @@
+.radio_parent{
+    background-color:rgba(8, 223, 209, 0.318);
+    padding:1em;
+    display:flex;
+    justify-content:space-between
+}
+.radio{
+    display: flex;
+    align-items: center;
+    gap: .2em;
+}
+.e-radio-wrapper {
+background-color: transparent;
+}

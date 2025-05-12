@@ -1,0 +1,13 @@
+.text_box_parent{
+    background-color: #e91e625d;
+    padding: 1em;
+    
+}
+.text_inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+
+}
